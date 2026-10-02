@@ -1,0 +1,138 @@
+[
+  {
+    "url": "https://omegajs.dev/",
+    "title": "",
+    "desc": "",
+    "breadcrumb": "Home",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/about",
+    "title": "About - OMEGA",
+    "desc": "Discover OMEGA and learn what we're all about",
+    "breadcrumb": "About",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/alternatives",
+    "title": "Alternatives - OMEGA",
+    "desc": "Compare OMEGA to popular alternatives. See why thousands of users choose OMEGA over the competition.",
+    "breadcrumb": "Alternatives",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/app",
+    "title": "App Launcher - OMEGA",
+    "desc": "OMEGA app launcher",
+    "breadcrumb": "Launcher",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/blog",
+    "title": "Blog - OMEGA",
+    "desc": "Stay up to date with the latest OMEGA news and best practices.",
+    "breadcrumb": "Blog",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/contact",
+    "title": "Contact - OMEGA",
+    "desc": "Contact OMEGA if you need assistance with anything.",
+    "breadcrumb": "Contact",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/cookies",
+    "title": "Cookie Policy - OMEGA",
+    "desc": "This cookie policy has been compiled to better serve those who are concerned with how their personal information is being used online.",
+    "breadcrumb": "Cookie Policy",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/download",
+    "title": "Download - OMEGA",
+    "desc": "OMEGA is free to use on Windows, Mac & Linux. Get started for free today!",
+    "breadcrumb": "Download",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/extension",
+    "title": "OMEGA browser extension",
+    "desc": "The OMEGA browser extension is free to use on Chrome, Firefox, Edge & Opera. Get started for free today!",
+    "breadcrumb": "Extension",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/feedback",
+    "title": "Feedback - OMEGA",
+    "desc": "Share your feedback and help us improve OMEGA.",
+    "breadcrumb": "Feedback",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/payment/confirmation",
+    "title": "Confirmation - OMEGA",
+    "desc": "Your order has been confirmed on OMEGA.",
+    "breadcrumb": "Confirmation",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/pricing",
+    "title": "Pricing - OMEGA",
+    "desc": "OMEGA Premium plans grant you access to more features and support. Get started for free today!",
+    "breadcrumb": "Pricing",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/privacy",
+    "title": "Privacy Policy - OMEGA",
+    "desc": "This privacy policy has been compiled to better serve those who are concerned with how their personal information is being used online.",
+    "breadcrumb": "Privacy Policy",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/status",
+    "title": "System Status - OMEGA",
+    "desc": "Check the current status and uptime of OMEGA services. View real-time system health and incident reports.",
+    "breadcrumb": "Status",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/team",
+    "title": "Team - OMEGA",
+    "desc": "Meet the team behind OMEGA.",
+    "breadcrumb": "Team",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/terms",
+    "title": "Terms Of Service - OMEGA",
+    "desc": "By accessing and using our products and services, you agree to comply with the Terms of Use listed here.",
+    "breadcrumb": "Terms of Service",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://omegajs.dev/updates",
+    "title": "Updates - OMEGA",
+    "desc": "View release notes and version history for OMEGA. Stay up to date with the latest features and improvements.",
+    "breadcrumb": "Updates",
+    "category": "",
+    "type": ""
+  }
+]

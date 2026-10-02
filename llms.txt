@@ -1,0 +1,22 @@
+# OMEGA
+
+> The open JavaScript stack: one brand config, every target — web, backend, desktop, and browser extension.
+
+## Pages
+- [/](https://omegajs.dev/)
+- [About - OMEGA](https://omegajs.dev/about): Discover OMEGA and learn what we're all about
+- [Alternatives - OMEGA](https://omegajs.dev/alternatives): Compare OMEGA to popular alternatives. See why thousands of users choose OMEGA over the competition.
+- [App Launcher - OMEGA](https://omegajs.dev/app): OMEGA app launcher
+- [Blog - OMEGA](https://omegajs.dev/blog): Stay up to date with the latest OMEGA news and best practices.
+- [Contact - OMEGA](https://omegajs.dev/contact): Contact OMEGA if you need assistance with anything.
+- [Cookie Policy - OMEGA](https://omegajs.dev/cookies): This cookie policy has been compiled to better serve those who are concerned with how their personal information is being used online.
+- [Download - OMEGA](https://omegajs.dev/download): OMEGA is free to use on Windows, Mac & Linux. Get started for free today!
+- [OMEGA browser extension](https://omegajs.dev/extension): The OMEGA browser extension is free to use on Chrome, Firefox, Edge & Opera. Get started for free today!
+- [Feedback - OMEGA](https://omegajs.dev/feedback): Share your feedback and help us improve OMEGA.
+- [Confirmation - OMEGA](https://omegajs.dev/payment/confirmation): Your order has been confirmed on OMEGA.
+- [Pricing - OMEGA](https://omegajs.dev/pricing): OMEGA Premium plans grant you access to more features and support. Get started for free today!
+- [Privacy Policy - OMEGA](https://omegajs.dev/privacy): This privacy policy has been compiled to better serve those who are concerned with how their personal information is being used online.
+- [System Status - OMEGA](https://omegajs.dev/status): Check the current status and uptime of OMEGA services. View real-time system health and incident reports.
+- [Team - OMEGA](https://omegajs.dev/team): Meet the team behind OMEGA.
+- [Terms Of Service - OMEGA](https://omegajs.dev/terms): By accessing and using our products and services, you agree to comply with the Terms of Use listed here.
+- [Updates - OMEGA](https://omegajs.dev/updates): View release notes and version history for OMEGA. Stay up to date with the latest features and improvements.

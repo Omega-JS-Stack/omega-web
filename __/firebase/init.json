@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSyBKIdwxeqzf2cVLRe1O2GWUm0moC7zjiKM",
+  "appId": "1:1059887348594:web:e5a58aaff3424572c6bbeb",
+  "authDomain": "omegajs.firebaseapp.com",
+  "databaseURL": "https://omegajs-default-rtdb.firebaseio.com",
+  "measurementId": "G-09PZLWXC2Z",
+  "messagingSenderId": "1059887348594",
+  "projectId": "omegajs",
+  "storageBucket": "omegajs.firebasestorage.app"
+}

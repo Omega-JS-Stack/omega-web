@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+  >
+  <url>
+    <loc>https://omegajs.dev</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/about</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/alternatives</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/app</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://omegajs.dev/es/app"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://omegajs.dev/fa/app"/>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/blog</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/contact</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/cookies</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/download</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/es/app</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://omegajs.dev/es/app"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://omegajs.dev/fa/app"/>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/es/payment/confirmation</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://omegajs.dev/es/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://omegajs.dev/fa/payment/confirmation"/>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/extension</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/fa/app</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://omegajs.dev/es/app"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://omegajs.dev/fa/app"/>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/fa/payment/confirmation</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://omegajs.dev/es/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://omegajs.dev/fa/payment/confirmation"/>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/feedback</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/payment/confirmation</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://omegajs.dev/es/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://omegajs.dev/fa/payment/confirmation"/>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/pricing</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/privacy</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/status</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/team</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/terms</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://omegajs.dev/updates</loc>
+    <lastmod>2026-10-02T03:37:02.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

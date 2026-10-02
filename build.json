@@ -1,0 +1,35 @@
+{
+  "brand": "omega",
+  "name": "OMEGA",
+  "environment": "production",
+  "version": "1.0.0",
+  "timestamp": "2026-10-02T03:37:00.583Z",
+  "buildTime": "2026-10-02T03:37:00.583Z",
+  "cacheBreaker": 1790912220583,
+  "theme": "classy",
+  "packages": {
+    "@omega.js/web": "0.55.0",
+    "@omega.js/client": "0.55.0",
+    "firebase": "12.14.0",
+    "node": "24.21.0"
+  },
+  "repo": {
+    "user": "Omega-JS-Stack",
+    "name": "omega-omega"
+  },
+  "commit": "57dcef2",
+  "assets": {
+    "js": "/assets/js/main-SPM5JGVQ.js",
+    "css": "/assets/css/main-3ea579b8.css"
+  },
+  "firebase": {
+    "apiKey": "AIzaSyBKIdwxeqzf2cVLRe1O2GWUm0moC7zjiKM",
+    "authDomain": "omegajs.dev",
+    "projectId": "omegajs",
+    "storageBucket": "omegajs.firebasestorage.app",
+    "messagingSenderId": "1059887348594",
+    "appId": "1:1059887348594:web:e5a58aaff3424572c6bbeb",
+    "databaseURL": "https://omegajs-default-rtdb.firebaseio.com",
+    "measurementId": "G-09PZLWXC2Z"
+  }
+}

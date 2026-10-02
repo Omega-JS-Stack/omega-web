@@ -1,0 +1,12 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "OMEGA Blog",
+  "home_page_url": "https://omegajs.dev/blog",
+  "feed_url": "https://omegajs.dev/feeds/posts.json",
+  "description": "The open JavaScript stack: one brand config, every target — web, backend, desktop, and browser extension.",
+  "generator": "OMEGA (@omega.js/web)",
+  "language": "en",
+  "favicon": "https://omegajs.dev/assets/images/favicon/favicon-32x32.png",
+  "items": [
+  ]
+}
